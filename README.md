@@ -13,11 +13,10 @@ Through intuitive visualizations and dynamic reporting, users can easily explore
 ### Key Visualizations:
 
 - **Total Sales**: A card displaying the total net sales.
-- **Average Sales**: A card showing the average net sales.
-- **Product Category vs. Order Total**: A bar chart comparing total orders by product category.
-- **Product Distribution**: A pie chart illustrating sales distribution across various product categories.
-- **Total Sales Each Day**: A line chart visualizing daily sales trends.
-- **Sales Forecasting**: A predictive model offering insights into future sales performance.
+- **Total Quantity**: A card showing the total quantity of sales.
+- **Sum of Sales by Segment**: A pie chart illustrating sales distribution across various segments.
+- **Monthly Sales Year by Year**: A line chart visualizing monthly sales trends across each year.
+- **Sales and Profit by State**: A map showing sales and profit by state.
 
 ## 🛠 Features
 
