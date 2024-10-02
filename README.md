@@ -28,6 +28,6 @@ Through intuitive visualizations and dynamic reporting, users can easily explore
 ## 📂 Project Structure
 
 ```bash
-├── SunDevilStoreSalesAnalysis.pbix         # Power BI Template file
+├── SunDevilStoreSalesAnalysisProject.pbix         # Power BI Template file
 ├── README.md                   # Project documentation
-└── SunDevil Store Sales Dashboard.png   # Screenshot of the dashboard
+└── SunDevil Store Dashboard.png   # Screenshot of the dashboard
